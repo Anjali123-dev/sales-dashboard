@@ -79,7 +79,7 @@ Amazon Product Sales Dataset containing product-level sales and review informati
 - Product Category Filter
 - 6. Screenshorts / Demos
      show what the dashboard looks like.
-     Example:
+     Example:https://github.com/Anjali123-dev/sales-dashboard/blob/main/Screenshot%202026-10-03%20143904.png
 
 - Quarter (Qtr) Filter
 - Interactive Power BI Visualizations
