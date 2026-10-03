@@ -77,5 +77,9 @@ Amazon Product Sales Dataset containing product-level sales and review informati
 - Top 5 Products by YTD Sales
 - Top 5 Products by YTD Reviews
 - Product Category Filter
+- 6. Screenshorts / Demos
+     show what the dashboard looks like.
+     Example:
+
 - Quarter (Qtr) Filter
 - Interactive Power BI Visualizations
